@@ -1,0 +1,6 @@
+{
+  "name": "OT & Endo Stock Manager",
+  "description": "A web application to manage stock levels for operation theatre and endoscopy materials, helping to track inventory, identify low stock items, and streamline supply management.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
